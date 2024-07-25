@@ -1,5 +1,7 @@
 # Hi! I'm  Sreejita Dutta!
 
+![logo](./banner.png)
+
 # 💫 About Me:
 
 Hey there!👋 I'm currently a third-year BTech CSE student, passionate about exploring the vast world of technology. My primary focus revolves around app development with flutter and  full-stack web development.
