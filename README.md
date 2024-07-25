@@ -1,4 +1,4 @@
-# Hi, I am  Sreejita Dutta!
+# Hi! I'm  Sreejita Dutta!
 
 # 💫 About Me:
 
